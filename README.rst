@@ -56,7 +56,7 @@ $ python segy_display
 Screenshots
 ===========
 
-* https://github.com/jaxbal/Seismic_PySegyDISPLAY/blob/master/80_SCREENSHOTS/01_segy_display.jpg
+.. image:: https://github.com/jaxbal/Seismic_PySegyDISPLAY/blob/master/80_SCREENSHOTS/01_segy_display.jpg
 
 
 =======
