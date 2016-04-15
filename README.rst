@@ -71,7 +71,8 @@ Licensed under the `GPLv3`_ license.
 Authors
 =======
 
-Asdrubal Ovalles. ovallesa@me.com
+.. _Asdrubal Ovalles: https://www.linkedin.com/in/asdr%C3%BAbal-ovalles-8401a352 
+ovallesa@me.com
 
 Made in Venezuela, 2016
 
