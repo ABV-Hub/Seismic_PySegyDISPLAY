@@ -70,9 +70,9 @@ Licensed under the `GPLv3`_ license.
 =======
 Authors
 =======
-Licensed under the `Asdrubal Ovalles`_ license.
+`Asdrubal Ovalles`_ .
 
-.. _Asdrubal Ovalles: http://www.gnu.org/licenses/gpl-3.0.html
+.. _Asdrubal Ovalles: https://www.linkedin.com/in/asdr%C3%BAbal-ovalles-8401a352
 
 ovallesa@me.com
 
