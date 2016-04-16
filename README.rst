@@ -70,8 +70,9 @@ Licensed under the `GPLv3`_ license.
 =======
 Authors
 =======
-`Ovalles`_ 
-.. _Ovalles: http://www.gnu.org/licenses/gpl-3.0.html 
+Licensed under the `GPLv3`_ license.
+
+.. _GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
 
 ovallesa@me.com
 
