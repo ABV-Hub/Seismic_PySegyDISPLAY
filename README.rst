@@ -41,6 +41,7 @@ Install
 
 Download the latest version from `GitHub`_. If you have ``git`` installed, you can use the following command:
 
+.. _GitHub: https://github.com/jaxbal
 ::
 
 $ git clone https://github.com/jaxbal/Seismic_PySegyDISPLAY.git
