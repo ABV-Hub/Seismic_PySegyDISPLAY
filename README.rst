@@ -70,8 +70,8 @@ Licensed under the `GPLv3`_ license.
 =======
 Authors
 =======
-
-.. _Asdrubal: https://www.linkedin.com/in/asdr%C3%BAbal-ovalles-8401a352 
+`Asdrubal Ovalles`_ 
+.. _Asdrubal Ovalles: https://www.linkedin.com/in/asdr%C3%BAbal-ovalles-8401a352 
 
 ovallesa@me.com
 
