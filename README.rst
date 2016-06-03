@@ -11,8 +11,10 @@ SEGY_DISPLAY
 
 **Main Features**
 
-* Segy traces display
-
+* Segy loading and traces display
+* It's still under construction
+* This release include a Synthetic SEGY File (1 CDP, 200 Fold)
+* Made using python 2.7
 .. contents:: **Table of Contents**
     :local:
     :backlinks: none
